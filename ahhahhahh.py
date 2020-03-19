@@ -9,9 +9,9 @@
 #\033[1;95m88888888P"   \033[1;96m88      888
 
 #\033[1;97m==================================================
-#\033[1;96mAuthor  \033[1;93m: \033[1;92mBinyamin
-#\033[1;96mYouTube \033[1;93m: \033[1;92mTrick Proof
-#\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Binyamin-binni
+#\033[1;96mAuthor  \033[1;93m: \033[1;92mAZ
+#\033[1;96mYouTube \033[1;93m: \033[1;92mLoda Lassan
+#\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/zubairzubair1211
 #\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://trickproof.blogspot.com
 #\033[1;97m=================================================="""
 
